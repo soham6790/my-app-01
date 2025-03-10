@@ -13,7 +13,8 @@ export default function Home() {
                         </h2>
 
                         <Link
-                            className="inline-flex text-white items-center px-6 py-3 font-medium bg-orange-700 rounded-lg hover:opacity-75"
+                            className="inline-flex text-white items-center px-6 py-3 
+                            font-medium bg-orange-700 rounded-lg hover:opacity-75"
                             to="/"
                         >
                             <svg
@@ -32,7 +33,7 @@ export default function Home() {
                 </div>
 
                 <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-                    <img className="w-96" src="https://i.ibb.co/5BCcDYB/Remote2.png" alt="image1" />
+                    <img className="w-96" src="/assets/Home_Page_Image_01.jpg" alt="Home page image of teamwork" />
                 </div>
             </aside>
 
